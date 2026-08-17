@@ -1,0 +1,17 @@
+[project]
+name = "weekly-01"
+version = "0.1.0"
+description = "SkillStorm Weekly Project 1"
+readme = "README.md"
+authors = [
+    { name = "David White-Goode", email = "dwhitegoode@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+start = "weekly_01.main:main"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"
