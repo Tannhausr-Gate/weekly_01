@@ -1,4 +1,4 @@
-# Weekly Assigment #1: Manifest Validation
+# Manifest Validation
 
 
 ## Installation
